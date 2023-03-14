@@ -1,2 +1,2 @@
-# Dominando-Android-Estudo-
-Repositório destinado aos meus estudos de Desenvolvimento Android
+# Dominando Android
+Repositório dos meus estudos com o livro **Dominando o Android com Kotlin** de **Nelson Glauber**
