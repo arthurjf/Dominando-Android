@@ -1,6 +1,6 @@
 package br.com.arthurjf.dominando.android
 
-import androidx.appcompat.app.AppCompatActivity
+import  androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
